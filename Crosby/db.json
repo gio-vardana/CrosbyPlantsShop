@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Lily",
+      "imageUrl": "/assets/Ecomm_02_Lily_004.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 20.00
+    },
+    {
+      "id": 2,
+      "name": "Pancil Plant",
+      "imageUrl": "/assets/Ecomm_10_Pencil_002.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 30.00
+    },
+    {
+      "id": 3,
+      "name": "Plant",
+      "imageUrl": "/assets/Ecomm_05_Alocasia_008.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 15.00
+    },
+    {
+      "id": 4,
+      "name": "Snake",
+      "imageUrl": "/assets/Ecomm_17_Snake_001.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 12.85
+    },
+    {
+      "id": 5,
+      "name": "Cactus",
+      "imageUrl": "/assets/Ecomm_18_Palm_004.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 21.99
+    },
+    {
+      "id": 6,
+      "name": "Orchid",
+      "imageUrl": "/assets/Ecomm_04_Orchid_005.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 15.00
+    },
+    {
+      "id": 7,
+      "name": "Fern",
+      "imageUrl": "/assets/Ecomm_07_Fern_003.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 11.79
+    },
+    {
+      "id": 8,
+      "name": "Plant",
+      "imageUrl": "/assets/Ecomm_16_Cactus2_005.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 28.99
+    }
+    
+  ]
+}
